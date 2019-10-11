@@ -1,11 +1,11 @@
 # Site settings
 author: Bak Miah
-title: Building ruby CLI project
+title: Journey through dev bootcamp
 header-img: img/home-bg.png
 email: baktiar.m@gmail.com
 copyright_name: Bak Miah
 description: > # this means to ignore newlines until "baseurl:"
-  Scraping data 
+  Project blogs
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  baktiarm1
