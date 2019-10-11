@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Vacation Packages CLI Project "
-date:       2019-10-11 23:53:13 +0000
+date:       2019-10-11 19:53:14 -0400
 permalink:  vacation_packages_cli_project
 ---
 
